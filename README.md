@@ -7,7 +7,7 @@
 ## Introduction
 The dashboard enables tech job seekers to explore salary insights across different countries, job titles, and employment types, helping them better understand global compensation trends.  
 
-The data is from [Kaggle](https://github.com/sSefin/Excel_Project-Salary_Dashboard/blob/main/Project_Dashboard.xlsx), you can find the link to the data [here](https://github.com/sSefin/Excel_Project-Salary_Dashboard/raw/main/salaries.csv). It includes key information from the past 5 years such as  
+The data is from [Kaggle](https://www.kaggle.com/datasets/adilshamim8/salaries-for-data-science-jobs/data), you can find the download link to the data [here](https://github.com/sSefin/Excel_Project-Salary_Dashboard/raw/main/salaries.csv). It includes key information from the past 5 years such as  
 
 - 💼 Job Titles
 - 💰 Salaries
