@@ -21,14 +21,14 @@ You can find the final dashboard [here](Project_Dashboard.xlsx)
 ## Excel Skills Used
 The following skills were used in preparation of this dashboard:  
 
-- 🔄 PowerQuery ETL
+- 🔄 Power Query ETL
 - 🧮 Formulas & Functions
 - 🔽 Data Validation
 - 📊 Charts
 
 ## Dashboard Overview  
 
-### 🔄 PowerQuery  
+### 🔄 Power Query  
 The following steps were performed in Power Query as part of the ETL process to prepare the data for the dashboard.  
 
 ![PowerQuery](https://github.com/user-attachments/assets/7f3fa459-2fbb-48b5-87e8-adb667a8a8aa)  
