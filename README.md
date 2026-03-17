@@ -35,7 +35,7 @@ The following steps were performed in Power Query as part of the ETL process to 
 
 - 🧹 Data Cleaning – Removed unnecessary fields and filtered out incomplete or irrelevant records.
 - 🔧 Data Transformation – Standardized formats, corrected data types, and structured the dataset for analysis.
-- 🌍 Data Enrichment – Mapped country codes, job titles and transformed remote work data into readable categories.
+- 🌍 Data Enrichment – Mapped country codes, job titles and transformed remote ratios into readable categories.
 - 📊 Data Structuring – Renamed and reorganized columns to optimize the dataset for dashboard calculations.
 
 ### 🧮 Backend Formula
